@@ -96,7 +96,3 @@ http://example.net
 
 - Assurez-vous de respecter les limites de requêtes de l'API de VirusTotal.
 - Ce script est conçu pour des fins éducatives et doit être utilisé de manière responsable.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
